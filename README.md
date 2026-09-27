@@ -224,9 +224,8 @@ Market Latch publishes practical resources covering SEO, AI search, WordPress, a
 
 Explore the resources:
 
-[Market Latch](https://marketlatch.com/)
-
----
+- [Market Latch](https://marketlatch.com/)
+- [AI SEO Implementation Checklist Documentation](https://nadeemalamseo.github.io/ai-seo-implementation-checklist/)
 
 ## Contributing
 
