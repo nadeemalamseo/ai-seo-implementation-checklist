@@ -227,6 +227,12 @@ Explore the resources:
 - [Market Latch](https://marketlatch.com/)
 - [AI SEO Implementation Checklist Documentation](https://nadeemalamseo.github.io/ai-seo-implementation-checklist/)
 
+## Related Technical Resource
+
+For a focused technical SEO audit workflow covering crawlability, indexability, canonicalization, redirects, sitemaps, status codes, site architecture, performance, rendering, and validation:
+
+[Technical SEO Audit Checklist](https://github.com/nadeemalamseo/technical-seo-audit-checklist)
+
 ## Contributing
 
 Contributions that improve the accuracy, clarity, usefulness, or maintainability of this documentation are welcome.
