@@ -83,17 +83,15 @@ This checklist is maintained as a practical reference for SEO implementation and
 
 It focuses on repeatable processes, clear documentation, evidence-based recommendations, and responsible optimization rather than guaranteed rankings or search visibility.
 
+## Related MarketLatch resource
+
+For a practical framework for evaluating AI-search visibility and measurement, see [How to Measure GEO](https://marketlatch.com/how-to-measure-geo/).
+
 ## Author
 
 Created by **Nadeem Alam**, Digital Marketing & SEO Specialist.
 
 [GitHub profile](https://github.com/nadeemalamseo)
-
-## Market Latch
-
-Market Latch publishes practical resources covering SEO, AI search, WordPress, content strategy, and digital marketing.
-
-[Visit Market Latch](https://marketlatch.com/)
 
 ## Disclaimer
 
