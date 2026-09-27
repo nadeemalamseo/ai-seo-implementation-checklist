@@ -157,6 +157,23 @@ It is designed for:
 - [ ] Compare performance over meaningful time periods
 
 ---
+---
+
+## Free SEO Resources
+
+Market Latch publishes practical resources covering SEO, AI search, WordPress, and digital marketing.
+
+Explore the resources:
+
+[Market Latch](https://marketlatch.com/)
+
+---
+
+## Author
+
+Created by **Nadeem Alam**, Digital Marketing & SEO Specialist.
+
+GitHub: [Nadeem Alam](https://github.com/nadeemalamseo)
 
 ## Recommended Implementation Order
 
@@ -178,20 +195,3 @@ INTERNAL LINKING
 AUTHORITY
    ↓
 MEASUREMENT
----
-
-## Free SEO Resources
-
-Market Latch publishes practical resources covering SEO, AI search, WordPress, and digital marketing.
-
-Explore the resources:
-
-[Market Latch](https://marketlatch.com/)
-
----
-
-## Author
-
-Created by **Nadeem Alam**, Digital Marketing & SEO Specialist.
-
-GitHub: [Nadeem Alam](https://github.com/nadeemalamseo)
