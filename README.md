@@ -8,7 +8,7 @@ Search is evolving beyond traditional blue-link results.
 
 Modern websites need to be accessible to search engines, understandable through structured data and entities, useful for human visitors, and clearly organized enough for search systems and AI-powered answer experiences to interpret.
 
-This repository provides a practical framework for reviewing and implementing those foundations.
+This repository provides a practical framework for reviewing and implementing these foundations.
 
 It is designed for:
 
@@ -19,8 +19,6 @@ It is designed for:
 - WordPress site owners
 - Agencies
 - Developers working on search visibility
-
----
 
 ## What This Checklist Covers
 
@@ -110,7 +108,7 @@ It is designed for:
 - Link cornerstone pages to useful supporting resources
 - Use descriptive anchor text
 - Avoid excessive exact-match anchors
-- Remove orphan pages where appropriate
+- Review orphan pages
 - Review links after URL changes
 - Prioritize links that genuinely help users navigate
 
@@ -144,7 +142,7 @@ It is designed for:
 
 ---
 
-# Core Implementation Guides
+## Core Implementation Guides
 
 Use these detailed guides to implement each area.
 
@@ -212,3 +210,48 @@ INTERNAL LINKING
 AUTHORITY
    ↓
 MEASUREMENT
+```
+
+The exact order may vary depending on the website's existing problems and priorities.
+
+Fix critical accessibility and technical issues before interpreting performance changes.
+
+---
+
+## Free SEO Resources
+
+Market Latch publishes practical resources covering SEO, AI search, WordPress, and digital marketing.
+
+Explore the resources:
+
+[Market Latch](https://marketlatch.com/)
+
+---
+
+## Contributing
+
+Contributions that improve the accuracy, clarity, usefulness, or maintainability of this documentation are welcome.
+
+Before contributing, please review the contribution guidelines:
+
+[Read CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+
+## Author
+
+Created by **Nadeem Alam**, Digital Marketing & SEO Specialist.
+
+GitHub: [Nadeem Alam](https://github.com/nadeemalamseo)
+
+---
+
+## Disclaimer
+
+This repository provides general educational information about SEO, AI search, structured data, content optimization, entity optimization, internal linking, and measurement.
+
+Search engines and AI systems can change their crawling, indexing, ranking, and information-processing systems over time.
+
+The practices described here do not guarantee rankings, traffic, indexing, citations, rich results, knowledge-panel inclusion, or visibility in any particular search or AI system.
+
+Always evaluate recommendations in the context of the actual website, its users, its technical environment, and current authoritative documentation.
