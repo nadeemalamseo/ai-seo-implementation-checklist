@@ -265,3 +265,7 @@ Always evaluate recommendations in the context of the actual website, its users,
 - [Project landing page](https://nadeemalamseo.github.io/ai-seo-implementation-checklist/)
 - [v0.1.0 release](https://github.com/nadeemalamseo/ai-seo-implementation-checklist/releases/tag/v0.1.0)
 - [Download v0.1.0 ZIP](https://github.com/nadeemalamseo/ai-seo-implementation-checklist/archive/refs/tags/v0.1.0.zip)
+
+## License
+
+This repository is licensed under the MIT License. See [LICENSE](LICENSE).
