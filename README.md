@@ -259,3 +259,9 @@ Search engines and AI systems can change their crawling, indexing, ranking, and 
 The practices described here do not guarantee rankings, traffic, indexing, citations, rich results, knowledge-panel inclusion, or visibility in any particular search or AI system.
 
 Always evaluate recommendations in the context of the actual website, its users, its technical environment, and current authoritative documentation.
+
+## Project links
+
+- [Project landing page](https://nadeemalamseo.github.io/ai-seo-implementation-checklist/)
+- [v0.1.0 release](https://github.com/nadeemalamseo/ai-seo-implementation-checklist/releases/tag/v0.1.0)
+- [Download v0.1.0 ZIP](https://github.com/nadeemalamseo/ai-seo-implementation-checklist/archive/refs/tags/v0.1.0.zip)
